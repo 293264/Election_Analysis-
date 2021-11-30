@@ -12,6 +12,10 @@
 ## Election Audit Results ##
 
 1. Total Votes - 369,711
+2. Count Votes:
+      * Jefferson: 10.5% (38,855)
+      * Denver: 82.8% (306,055)
+      * Arapahoe: 6.7% (24,801)
 
 Based on the 369,711 total votes, Denver County had the highest voter turnout, and the winner is Diana DeGette with 272,892 votes, or 73.8% of all votes, exceeding the 50.1% popular majority threshold.
 

@@ -1,4 +1,4 @@
-# Election_Analysis-
+# Election_Analysis
 ## Overview of Election Audit ##
 
    * In this analysis, we examined voter registration data to assist in completing an election audit for the US Congressional Precinct in Colorado. Additional information has been requested so that the audit can be completed.
@@ -16,6 +16,14 @@
       * Jefferson: 10.5% (38,855)
       * Denver: 82.8% (306,055)
       * Arapahoe: 6.7% (24,801)
+3. Largest County Turnout - Denver
+4. Candidate Votes:
+      * Charles Casper Stockham: 23% (85,213)
+      * Diana DeGette: 73.8% (272,892)
+      * Raymond Anthony Doane: 3.1% (11,606)
+5. Winner
+      * Diane DeGette
+      * Votes: 272,892 (73.8%)
 
 Based on the 369,711 total votes, Denver County had the highest voter turnout, and the winner is Diana DeGette with 272,892 votes, or 73.8% of all votes, exceeding the 50.1% popular majority threshold.
 

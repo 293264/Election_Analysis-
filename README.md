@@ -12,7 +12,7 @@
 ## Election Audit Results ##
 
 1. Total Votes - 369,711
-2. Count Votes:
+2. County Votes:
       * Jefferson: 10.5% (38,855)
       * Denver: 82.8% (306,055)
       * Arapahoe: 6.7% (24,801)
